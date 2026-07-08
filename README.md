@@ -1,6 +1,6 @@
 # 📊 Digital Payments Business Analysis
 
-This project focuses on analyzing a digital payments dataset to understand customer transactions, payment behavior, and business performance. The objective is to clean the raw data, perform exploratory data analysis (EDA), and generate meaningful business insights that can support data-driven decision making.
+This project focuses on analyzing a digital payments dataset to understand customer transactions, payment behavior, and business performance. The objective is to clean the raw data, perform exploratory data analysis (EDA), and generate meaningful business insights that can support data-driven decision making
 
 ---
 
